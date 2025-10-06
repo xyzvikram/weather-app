@@ -1,6 +1,6 @@
 # 🌦 Weather App
 
-A simple weather application built using *HTML, CSS, and JavaScript*.  
+A simple weather application built using HTML, CSS, and JavaScript.  
 It fetches live weather data from the *OpenWeatherMap API* based on the city name entered by the user.
 
 ---

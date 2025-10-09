@@ -24,5 +24,3 @@ It fetches live weather data from the *OpenWeatherMap API* based on the city nam
 
 ## 🌐 Live Demo
 [👉 Try the Weather App](https://xyzvikram.github.io/weather-app/)
-
----
